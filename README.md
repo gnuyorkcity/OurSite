@@ -1,2 +1,2 @@
 # OurSite
-This is our Jeckyl site showing off our projects basically!
+This is our Jekyll site showing off our projects basically!
